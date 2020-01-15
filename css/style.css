@@ -23,7 +23,7 @@ body {
 }
 
 a {
-    color: rgb(174, 187, 174);
+    color: rgba(0,100,0);
 }
 
 a:hover,
@@ -75,12 +75,6 @@ p.lead {
 }
 
 .gradient{
-
-    background: -webkit-linear-gradient( left, rgb(124,252,0) 0%,  rgb(0,128,128) 100%);
-    background: linear-gradient( to right, rgb(124,252,0) 0%, rgb(0,128,128)  100%);
-
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 
 }
 
